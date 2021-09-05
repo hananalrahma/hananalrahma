@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hanan Iqbal Alrahma
-- 👀 I’m interested in game development, web development, and computer hardware
+- 👀 Just hardware enthusiast
 - 🎓 Students of Universitas Negeri Semarang
 
 <!---
