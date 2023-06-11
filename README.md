@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hanan Iqbal Alrahma
-- 👀 Just hardware enthusiast
+('-')/
 - 🎓 Students of Universitas Negeri Semarang
 
 <!---
